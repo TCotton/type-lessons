@@ -1,0 +1,24 @@
+{
+  "name": "typescript-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:type-check": "tsc -p tsconfig.json --noEmit",
+    "type-check:watch": "npm run test:type-check -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TCotton/type-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TCotton/type-lessons/issues"
+  },
+  "homepage": "https://github.com/TCotton/type-lessons#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
