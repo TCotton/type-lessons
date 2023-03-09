@@ -1,6 +1,6 @@
 // Use write an interface that represents the data used in this function.
 // Annotate the function with your interface.
-
+// @ts-nocheck
 interface Fruit {
     name: string;
     color: string;

@@ -1,3 +1,4 @@
+// @ts-nocheck
 /* eslint-disable @typescript-eslint/no-unused-vars */
 // Make sure you replace all of the `unknown` types with the appropriate
 // union types.

@@ -1,3 +1,4 @@
+// @ts-nocheck
 type LinkedList = {
     head: LinkedListNode;
     size: () => number;

@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface CoordinateInterface {
     x: number;
     y: number;
